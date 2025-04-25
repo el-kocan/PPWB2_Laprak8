@@ -1,0 +1,9 @@
+.hero__description {
+    color: darkcyan;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.hero__description-text {
+    text-align: justify;
+}
